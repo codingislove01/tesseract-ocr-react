@@ -6,7 +6,7 @@ This app was made for a quick video showing how to do text recognition/OCR using
 
 Final Output:
 
-![](https://i.imgur.com/3XMkzFf.png)
+![](https://i.imgur.com/sTYFEfy.jpg)
 
 [Tesseract OCR Tutorial](https://www.youtube.com/watch?v=MnaMqJH46Dw)
 
